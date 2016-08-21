@@ -1,0 +1,176 @@
+* { margin: 0;}
+a { @include transition-all;
+color: $theme-primary;
+&:hover,
+&:focus {
+    color: darken($theme-primary, 10%);
+}}
+button, textarea { outline: none; }
+
+.pagination {
+  text-align: center;
+  padding: 20px;
+}
+
+.previous { float: left; }
+.next { float: right; }
+
+input, textarea {
+  width: 100%;
+  margin: 10px;
+  padding: 5px;
+}
+
+hr {
+    border-color: $theme-primary;
+    border-width: 3px;
+    max-width: 800px;
+}
+hr.light {
+    border-color: white;
+}
+
+body {
+  margin-bottom: 25px;
+  font-family: 'Poppins',sans-serif;
+  background-image: url("img/paperbg.jpg");
+}
+
+time {
+  display: block;
+  font-size: 0.8em;
+  color: #666;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+
+.navbar-default {
+    background-color: white;
+    border-color: rgba($theme-dark, .5);
+    @include sans-serif-font;
+    @include transition-all;
+    .navbar-header .navbar-brand {
+        color: $theme-primary;
+        @include sans-serif-font;
+        font-weight: 700;
+        text-transform: uppercase;
+        &:hover,
+        &:focus {
+            color: darken($theme-primary, 10%);
+        }
+    }
+    .nav {
+        > li {
+            > a,
+            > a:focus {
+                text-transform: uppercase;
+                font-weight: 700;
+                font-size: 13px;
+                color: $theme-dark;
+                &:hover {
+                    color: $theme-primary;
+                }
+            }
+            &.active {
+                > a,
+                > a:focus {
+                    color: $theme-primary !important;
+                    background-color: transparent;
+                    &:hover {
+                        background-color: transparent;
+                    }
+                }
+            }
+        }
+    }
+    @media (min-width: 768px) {
+        background-color: transparent;
+        border-color: rgba(white, .3);
+        .navbar-header .navbar-brand {
+            color: rgba(white, .7);
+            &:hover,
+            &:focus {
+                color: white;
+            }
+        }
+        .nav > li > a,
+        .nav > li > a:focus {
+            color: rgba(white, .7);
+            &:hover {
+                color: white;
+            }
+        }
+        &.affix {
+            background-color: white;
+            border-color: rgba($theme-dark, .5);
+            .navbar-header .navbar-brand {
+                color: $theme-primary;
+                font-size: 14px;
+                &:hover,
+                &:focus {
+                    color: darken($theme-primary, 10%);
+                }
+            }
+            .nav > li > a,
+            .nav > li > a:focus {
+                color: $theme-dark;
+                &:hover {
+                    color: $theme-primary;
+                }
+            }
+        }
+    }
+}
+//header start
+header {
+  background-image: none;
+  color: #666;
+  margin-top: 75px;
+}
+//header end
+blockquote {
+  border-left: 5px solid #999;
+  padding-left: 15px;
+}
+.text-primary {
+    color: $theme-primary;
+}
+
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+// Contact
+#contact .fa {
+    color: $theme-dark;
+    font-size: 4em;
+}
+::-moz-selection {
+    color: white;
+    text-shadow: none;
+    background: $theme-dark;
+}
+
+::selection {
+    color: white;
+    text-shadow: none;
+    background: $theme-dark;
+}
+
+img::selection {
+    color: white;
+    background: transparent;
+}
+
+img::-moz-selection {
+    color: white;
+    background: transparent;
+}
+
+body {
+    -webkit-tap-highlight-color: $theme-dark;
+}

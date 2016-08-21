@@ -1,0 +1,39 @@
+name: Jordan Tomasone
+description: Template for a video blog.
+url: 'http://www.kneejar.com'
+baseurl: ''
+email: myemail@example.com
+twitter: https://twitter.com/mytwitter
+youtube: https://www.youtube.com/mychannel
+facebook: https://www.facebook.com/
+google_analytics: ''
+
+################################################################
+################################################################
+gems:
+  - jekyll-sitemap
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - .gitignore
+collections:
+  videos:
+    output: true
+    permalink: /:path/
+defaults:
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+  -
+    scope:
+      path: ''
+      type: videos
+    values:
+      layout: video
