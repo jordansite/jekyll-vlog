@@ -1,7 +1,7 @@
 name: Jordan Tomasone
 description: Template for a video blog.
 url: 'https://jordansite.github.io/jekyll-vlog'
-baseurl: ''
+baseurl: 'jekyll-vlog'
 email: myemail@example.com
 twitter: https://twitter.com/mytwitter
 youtube: https://www.youtube.com/mychannel
