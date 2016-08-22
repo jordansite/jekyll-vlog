@@ -6,7 +6,7 @@ permalink: /words/
 <ul class='posts'>
   {% for post in site.posts %}
   <li>
-    <a href='{{ site.baseurl }}{{ post.url }}'>
+    <a href='{{ site.github.url }}{{ post.url }}'>
       <h3>{{ post.title }}</h3>
       <time>{{ post.date | date: '%d %B %Y'}}</time>
       <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
