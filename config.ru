@@ -1,4 +1,5 @@
 require 'rack/jekyll'
 require 'yaml'
-require 'jekyll-sitemap'
+require 'bundler/setup'
+Bundler.require(:default)
 run Rack::Jekyll.new
