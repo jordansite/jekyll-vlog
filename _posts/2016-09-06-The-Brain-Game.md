@@ -1,8 +1,8 @@
 ---
 title: The Brain Game
 author: Jordan Tomasone
-category: Self Help
-tags: [Self Help]
+category: SelfHelp
+tags: [SelfHelp]
 ---
 Every day is a battle... a battle against your brain. Some of us are aware of this battle, others have yet to become aware. Think of your brain as a game.
 A game that can be won but it can also be lost. This is part of life. It is how we play this game that affects who we become.
