@@ -142,6 +142,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  jekyll-sitemap
   kramdown
   puma
   rack-jekyll
