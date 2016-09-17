@@ -23,10 +23,10 @@ exclude:
   - Gemfile.lock
   - CNAME
   - .gitignore
-  -config.ru
-  -vendor
-  -Procfile
-  -Rakefile
+  - config.ru
+  - vendor
+  - Procfile
+  - Rakefile
 collections:
   videos:
     output: true
