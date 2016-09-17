@@ -18,6 +18,8 @@ gems:
 sass:
   sass_dir: /assets/_sass
   style: :compressed
+css:
+  css_dir: /assets/css
 exclude:
   - Gemfile
   - Gemfile.lock
