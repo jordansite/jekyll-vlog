@@ -14,7 +14,6 @@ google_analytics: 'UA-84225533-1'
 ################################################################
 gems:
   - jekyll-sitemap
-  - kramdown
 sass:
   sass_dir: /assets/_sass
   style: :compressed

@@ -1,8 +1,8 @@
 ---
 title: Why are you so scared?
 author: Jordan Tomasone
-category: SelfHelp
-tags: [SelfHelp]
+category: Help
+tags: [Help]
 ---
 Seriously though! Why is it that you literally scare yourself out of doing the things that you know you will enjoy and the things that will make your life so much better?
 
