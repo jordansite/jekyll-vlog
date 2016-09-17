@@ -1,4 +1,4 @@
 require 'rack/jekyll'
 require 'yaml'
-Dir.chdir(File.expand_path("web"))
+require 'jekyll-sitemap'
 run Rack::Jekyll.new
