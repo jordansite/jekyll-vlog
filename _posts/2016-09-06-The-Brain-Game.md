@@ -17,7 +17,7 @@ How many times have you said
 
 This is a constant battle between you and your brain. But how does the brain work?
 
-The brain works on reptition; has anyone told you "practice makes perfect"?
+The brain works on repetition; has anyone told you "practice makes perfect"?
 
 Then why don't you listen? There is an underlying cause for this and you are not the only one.
 
@@ -37,7 +37,7 @@ But here is the trick your brain plays on you, although your brain is happy watc
 
 ### Fight Back
 
-Everytime you watch Netflix your brain wins, and your brain keeps score. Just like in any game the more your brain scores, its harder to fight back and take the lead.
+Every time you watch Netflix your brain wins, and your brain keeps score. Just like in any game the more your brain scores, its harder to fight back and take the lead.
 
 So how do we fight back how do we beat our brain? Well if this is all new to you then start SLOW and ease yourself into it.
 
@@ -45,8 +45,8 @@ You will need to start a long term battle with your brain and focus on the posit
 
 Keeping with the movie theme, try and notice how you feel before, during and after watching. Think about why you even decided to watch a movie in the first place. Were you bored? Maybe it helps you fall asleep?
 
-Consider the why and challange your thoughts, being aware of your thoughts can lead you on the path to taking the lead back and start winning the brain game.
+Consider the why and challenge your thoughts, being aware of your thoughts can lead you on the path to taking the lead back and start winning the brain game.
 
-And let's be honest everone likes to win!
+And let's be honest everyone likes to win!
 
 So why not with the most important game of all? The Brain Game!
