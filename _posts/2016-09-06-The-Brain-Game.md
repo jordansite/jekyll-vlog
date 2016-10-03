@@ -25,7 +25,7 @@ Then why don't you listen? There is an underlying cause for this and you are not
 
 The fact is practice is not comfortable. And your brain craves comfort but its purpose is to solve problems.
 
-Now everyone want to feel good about themselves and our brain will do whatever it takes to achieve this feeling.
+Now everyone wants to feel good about themselves and our brain will do whatever it takes to achieve this feeling.
 
 And when we strive to better ourselves our brain fights back, it will make up thins like "I want to be active but I don't have time". To be honest who has said this before, or something like this. This is your brain winning the game, you convince yourself that its okay to not go to the gym. Your brain is trying to convince you that because of reason "ABC" you don't have to go to the gym, your brain is telling you "Let's just stay at home and be comfortable watching TV".
 
