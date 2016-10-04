@@ -21,6 +21,7 @@ sass:
   style: :compressed
 css:
   css_dir: /assets/css
+  syle: :compressed
 exclude:
   - Gemfile
   - Gemfile.lock
