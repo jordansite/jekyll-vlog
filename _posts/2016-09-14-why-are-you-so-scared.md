@@ -12,7 +12,7 @@ I don’t know about you but I don’t know anyone who can predict the future! I
 
 Everyone wants to win the lottery right? Everyone has this false hope “if only I won the lottery” NO! Winning the lottery will not make your life any better because you still are not the best you, that you could be!
 
-### Negatitivity
+### Negativity
 
 Everyone knows someone who is always negative. They can consistently find the worst in people or things. Always thinking of how bad things could be.
 
