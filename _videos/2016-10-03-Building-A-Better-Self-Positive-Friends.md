@@ -1,7 +1,7 @@
 ---
 title: Positive Friends
 youtube_id: qZQgMDh9qBg
-tags: [Self Help, Building a Better self, Jordan Tomasone, Positive Freinds]
+tags: [Self Help, Building a Better self, Jordan Tomasone, Positive Freinds, sault ste marie, ontario, canada]
 ---
 Building A Better Self - Positive Friends
 

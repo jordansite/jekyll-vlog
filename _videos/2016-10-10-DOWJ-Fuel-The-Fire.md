@@ -1,7 +1,7 @@
 ---
 title: Fuel The Fire
 youtube_id: vv5k8r0DRxY
-tags: [Self Help, Days off With Jordan, Jordan Tomasone, Fuel The Fire, Bulding a Better Self]
+tags: [Self Help, Days off With Jordan, Jordan Tomasone, Fuel The Fire, Bulding a Better Self, sault ste marie, ontario, canada]
 ---
 Days off with Jordan - EP 001
 
