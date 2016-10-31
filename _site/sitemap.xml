@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://jordantomasone.com/recipe/2016/10/31/Halloween-Recipe.html</loc>
+<lastmod>2016-10-31T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://jordantomasone.com/halloween-special-2016/2016/10/31/5-tips-to-stay-healthy-on-halloween.html</loc>
+<lastmod>2016-10-31T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>https://jordantomasone.com/self-help/2016/10/19/Rejection.html</loc>
 <lastmod>2016-10-19T00:00:00-04:00</lastmod>
 </url>
@@ -39,5 +47,8 @@
 </url>
 <url>
 <loc>https://jordantomasone.com/2016-10-24-DOWJ-Trip-to-Camp/</loc>
+</url>
+<url>
+<loc>https://jordantomasone.com/2016-10-31-BABS-3-Tips-to-stay-healthy-halloween/</loc>
 </url>
 </urlset>
