@@ -1,0 +1,13 @@
+
+machine:
+  timezone: US/Eastern
+ruby:
+  version: 2.3.1
+dependencies:
+  post:
+    - bundle exec jekyll build
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: jordsite
