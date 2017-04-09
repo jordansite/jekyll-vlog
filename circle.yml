@@ -6,10 +6,10 @@ ruby:
 dependencies:
   post:
     - bundle exec jekyll build
-
-test:
-  post:
-    - bundle exec htmlproofer ./_site --check-html --disable-external
+#add testing later on!
+#test:
+#  post:
+#    - bundle exec htmlproofer ./_site --check-html --disable-external
 
 deployment:
   staging:
