@@ -6,6 +6,6 @@ tags: [Jordan, Tomasone, Jordan Tomasone, Building A Better Self, building, bett
 Building A Better Self - Three Major Types of Introductions
 
 In this video Jordan covers the 3 Major types of Introductions that you will experience when interacting with others, and breaks down how to perform the introductions and ways to improve your own introductions in context to the 3 types.
-The three types of introductions covered in this video are Interview Introduction, Casual Introduction and, Contact Introduction. 
+The three types of introductions covered in this video are Interview Introduction, Casual Introduction and, Contact Introduction.
 
-Original Introduction video:  https://www.youtube.com/watch?v=YBDwxPRHDto
+Original Introduction video:  [Video Link!](https://www.youtube.com/watch?v=YBDwxPRHDto)

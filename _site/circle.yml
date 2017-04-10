@@ -7,7 +7,7 @@ dependencies:
 #add testing later on!
 test:
   post:
-   -echo test
+   - echo test
 deployment:
   staging:
     branch: master
