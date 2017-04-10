@@ -5,7 +5,6 @@ ruby:
   version: 2.3.1
 dependencies:
   post:
-    - gem update
     - bundle exec jekyll build
 #add testing later on!
 test:
