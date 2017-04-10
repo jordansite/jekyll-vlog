@@ -9,8 +9,7 @@ dependencies:
 #add testing later on!
 test:
   post:
-    - bundle exec htmlproofer ./_site --check-html --disable-external
-
+   -echo test
 deployment:
   staging:
     branch: master
