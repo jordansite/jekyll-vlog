@@ -1,0 +1,13 @@
+current directory: /home/jacob/www/jordansite/jekyll-vlog/vendor/ruby/2.3.0/gems/json-1.8.6/ext/json
+/home/jacob/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20170417-2061-10k4yyz.rb extconf.rb
+creating Makefile
+
+current directory: /home/jacob/www/jordansite/jekyll-vlog/vendor/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/jacob/www/jordansite/jekyll-vlog/vendor/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/jacob/www/jordansite/jekyll-vlog/vendor/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install

@@ -3,11 +3,11 @@
   <channel>
     <title></title>
     <description>Building a better self everyday.</description>
-    <link>https://jordantomasone.com/</link>
-    <atom:link href="https://jordantomasone.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 10 Apr 2017 03:11:28 -0400</pubDate>
-    <lastBuildDate>Mon, 10 Apr 2017 03:11:28 -0400</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 17 Apr 2017 01:21:09 -0400</pubDate>
+    <lastBuildDate>Mon, 17 Apr 2017 01:21:09 -0400</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Positive Friends</title>
@@ -19,8 +19,8 @@ And with Positive Friends you can Build A Better Self.&lt;/p&gt;
         <pubDate>
             Mon, 03 Oct 2016 00:00:00 -0400
         </pubDate>
-        <link>https://jordantomasone.com/2016-10-03-Building-A-Better-Self-Positive-Friends/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-10-03-Building-A-Better-Self-Positive-Friends/</guid>
+        <link>http://localhost:4000/2016-10-03-Building-A-Better-Self-Positive-Friends/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-10-03-Building-A-Better-Self-Positive-Friends/</guid>
         
         <category>Self Help</category>
         
@@ -48,8 +48,8 @@ Jordan has an open talk about friends, has urges to eat food and jumps on his bi
         <pubDate>
             Mon, 10 Oct 2016 00:00:00 -0400
         </pubDate>
-        <link>https://jordantomasone.com/2016-10-10-DOWJ-Fuel-The-Fire/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-10-10-DOWJ-Fuel-The-Fire/</guid>
+        <link>http://localhost:4000/2016-10-10-DOWJ-Fuel-The-Fire/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-10-10-DOWJ-Fuel-The-Fire/</guid>
         
         <category>Self Help</category>
         
@@ -78,8 +78,8 @@ Jordan has an open talk about friends, has urges to eat food and jumps on his bi
         <pubDate>
             Mon, 17 Oct 2016 00:00:00 -0400
         </pubDate>
-        <link>https://jordantomasone.com/2016-10-17-Building-A-Better-Self-Toxic-People/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-10-17-Building-A-Better-Self-Toxic-People/</guid>
+        <link>http://localhost:4000/2016-10-17-Building-A-Better-Self-Toxic-People/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-10-17-Building-A-Better-Self-Toxic-People/</guid>
         
         <category>Self Help</category>
         
@@ -122,8 +122,8 @@ Jordan has an open talk about friends, has urges to eat food and jumps on his bi
         <pubDate>
             Mon, 24 Oct 2016 00:00:00 -0400
         </pubDate>
-        <link>https://jordantomasone.com/2016-10-24-DOWJ-Trip-to-Camp/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-10-24-DOWJ-Trip-to-Camp/</guid>
+        <link>http://localhost:4000/2016-10-24-DOWJ-Trip-to-Camp/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-10-24-DOWJ-Trip-to-Camp/</guid>
         
         <category>Self Help</category>
         
@@ -166,8 +166,8 @@ Jordan has an open talk about friends, has urges to eat food and jumps on his bi
         <pubDate>
             Mon, 31 Oct 2016 00:00:00 -0400
         </pubDate>
-        <link>https://jordantomasone.com/2016-10-31-BABS-3-Tips-to-stay-healthy-halloween/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-10-31-BABS-3-Tips-to-stay-healthy-halloween/</guid>
+        <link>http://localhost:4000/2016-10-31-BABS-3-Tips-to-stay-healthy-halloween/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-10-31-BABS-3-Tips-to-stay-healthy-halloween/</guid>
         
         <category>Building a Better Self</category>
         
@@ -224,8 +224,8 @@ Jordan has an open talk about friends, has urges to eat food and jumps on his bi
         <pubDate>
             Mon, 07 Nov 2016 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2016-11-07-DOWJ-Hiking-Trip-2016/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-11-07-DOWJ-Hiking-Trip-2016/</guid>
+        <link>http://localhost:4000/2016-11-07-DOWJ-Hiking-Trip-2016/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-11-07-DOWJ-Hiking-Trip-2016/</guid>
         
         <category>Self Help</category>
         
@@ -296,8 +296,8 @@ Jordan has an open talk about friends, has urges to eat food and jumps on his bi
         <pubDate>
             Mon, 14 Nov 2016 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2016-11-14-Building-A-Better-Self-Better-Conversations/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-11-14-Building-A-Better-Self-Better-Conversations/</guid>
+        <link>http://localhost:4000/2016-11-14-Building-A-Better-Self-Better-Conversations/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-11-14-Building-A-Better-Self-Better-Conversations/</guid>
         
         <category>Self Help</category>
         
@@ -387,8 +387,8 @@ This is part one of Jordans trip to Ireland stay tuned for part 2 on December 5t
         <pubDate>
             Mon, 21 Nov 2016 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2016-11-21-Ireland-Trip-Part1/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-11-21-Ireland-Trip-Part1/</guid>
+        <link>http://localhost:4000/2016-11-21-Ireland-Trip-Part1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-11-21-Ireland-Trip-Part1/</guid>
         
         <category>JordanTomasone</category>
         
@@ -497,8 +497,8 @@ This is part one of Jordans trip to Ireland stay tuned for part 2 on December 5t
         <pubDate>
             Mon, 28 Nov 2016 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2016-11-28-Building-A-Better-Self-Early-Mornings/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-11-28-Building-A-Better-Self-Early-Mornings/</guid>
+        <link>http://localhost:4000/2016-11-28-Building-A-Better-Self-Early-Mornings/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-11-28-Building-A-Better-Self-Early-Mornings/</guid>
         
         <category>Self Help</category>
         
@@ -572,8 +572,8 @@ This is part 2 of a 5 part series of my adventures in Ireland, new videos every 
         <pubDate>
             Mon, 05 Dec 2016 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2016-12-05-Ireland-Trip-part2/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-12-05-Ireland-Trip-part2/</guid>
+        <link>http://localhost:4000/2016-12-05-Ireland-Trip-part2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-12-05-Ireland-Trip-part2/</guid>
         
         <category>JordanTomasone</category>
         
@@ -680,8 +680,8 @@ This is part 2 of a 5 part series of my adventures in Ireland, new videos every 
         <pubDate>
             Mon, 12 Dec 2016 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2016-12-12-Building-A-Better-Self-Hydration/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-12-12-Building-A-Better-Self-Hydration/</guid>
+        <link>http://localhost:4000/2016-12-12-Building-A-Better-Self-Hydration/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-12-12-Building-A-Better-Self-Hydration/</guid>
         
         <category>building</category>
         
@@ -758,8 +758,8 @@ This is part 2 of a 5 part series of my adventures in Ireland, new videos every 
         <pubDate>
             Mon, 19 Dec 2016 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2016-12-19-Ireland-Trip-part-3/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-12-19-Ireland-Trip-part-3/</guid>
+        <link>http://localhost:4000/2016-12-19-Ireland-Trip-part-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-12-19-Ireland-Trip-part-3/</guid>
         
         <category>JordanTomasone</category>
         
@@ -832,8 +832,8 @@ This is part 2 of a 5 part series of my adventures in Ireland, new videos every 
         <pubDate>
             Mon, 26 Dec 2016 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2016-12-26-Building-A-Better-Self-List-Building/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2016-12-26-Building-A-Better-Self-List-Building/</guid>
+        <link>http://localhost:4000/2016-12-26-Building-A-Better-Self-List-Building/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-12-26-Building-A-Better-Self-List-Building/</guid>
         
         <category>jordan</category>
         
@@ -932,8 +932,8 @@ This is part 2 of a 5 part series of my adventures in Ireland, new videos every 
         <pubDate>
             Mon, 02 Jan 2017 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2017-01-02-Ireland-Trip-part-4/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-01-02-Ireland-Trip-part-4/</guid>
+        <link>http://localhost:4000/2017-01-02-Ireland-Trip-part-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-02-Ireland-Trip-part-4/</guid>
         
         <category>JordanTomasone</category>
         
@@ -1016,8 +1016,8 @@ Relaxing your body and mind before bed.&lt;/p&gt;
         <pubDate>
             Mon, 09 Jan 2017 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2017-01-09-Building-A-Better-Self-Better-Sleep/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-01-09-Building-A-Better-Self-Better-Sleep/</guid>
+        <link>http://localhost:4000/2017-01-09-Building-A-Better-Self-Better-Sleep/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-09-Building-A-Better-Self-Better-Sleep/</guid>
         
         <category>Building</category>
         
@@ -1092,8 +1092,8 @@ Relaxing your body and mind before bed.&lt;/p&gt;
         <pubDate>
             Mon, 16 Jan 2017 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2017-01-16-Ireland-Trip-part-5/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-01-16-Ireland-Trip-part-5/</guid>
+        <link>http://localhost:4000/2017-01-16-Ireland-Trip-part-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-16-Ireland-Trip-part-5/</guid>
         
         <category>JordanTomasone</category>
         
@@ -1187,8 +1187,8 @@ https://www.youtube.com/user/EckhartTeachings&lt;/p&gt;
         <pubDate>
             Mon, 23 Jan 2017 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2017-01-23-Building-A-Better-Self-Being-In-the-Now/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-01-23-Building-A-Better-Self-Being-In-the-Now/</guid>
+        <link>http://localhost:4000/2017-01-23-Building-A-Better-Self-Being-In-the-Now/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-23-Building-A-Better-Self-Being-In-the-Now/</guid>
         
         <category>stillnesssolutions</category>
         
@@ -1272,8 +1272,8 @@ Check out the cool animals I saw: Camels, Tigers, Giraffe, Goats, Zebras and man
         <pubDate>
             Mon, 30 Jan 2017 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2017-01-30-Trip-To-The-Zoo/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-01-30-Trip-To-The-Zoo/</guid>
+        <link>http://localhost:4000/2017-01-30-Trip-To-The-Zoo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-30-Trip-To-The-Zoo/</guid>
         
         <category>Cute Panda falls</category>
         
@@ -1345,8 +1345,8 @@ Check out the cool animals I saw: Camels, Tigers, Giraffe, Goats, Zebras and man
         <pubDate>
             Mon, 06 Feb 2017 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2017-02-06-Building-A-Better-Self-Social-Energy/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-02-06-Building-A-Better-Self-Social-Energy/</guid>
+        <link>http://localhost:4000/2017-02-06-Building-A-Better-Self-Social-Energy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-02-06-Building-A-Better-Self-Social-Energy/</guid>
         
         <category>Jordan</category>
         
@@ -1419,8 +1419,8 @@ Check out the cool animals I saw: Camels, Tigers, Giraffe, Goats, Zebras and man
         <pubDate>
             Sun, 12 Feb 2017 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2017-02-12-Touring-Creemore-Springs-Brewery/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-02-12-Touring-Creemore-Springs-Brewery/</guid>
+        <link>http://localhost:4000/2017-02-12-Touring-Creemore-Springs-Brewery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-02-12-Touring-Creemore-Springs-Brewery/</guid>
         
         <category>Jordan</category>
         
@@ -1485,8 +1485,8 @@ Check out the cool animals I saw: Camels, Tigers, Giraffe, Goats, Zebras and man
         <pubDate>
             Mon, 20 Feb 2017 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2017-02-20-Building-A-Better-Self-Alone-Time/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-02-20-Building-A-Better-Self-Alone-Time/</guid>
+        <link>http://localhost:4000/2017-02-20-Building-A-Better-Self-Alone-Time/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-02-20-Building-A-Better-Self-Alone-Time/</guid>
         
         <category>Jordan</category>
         
@@ -1549,8 +1549,8 @@ Check out the cool animals I saw: Camels, Tigers, Giraffe, Goats, Zebras and man
         <pubDate>
             Mon, 27 Feb 2017 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2017-02-27-Trip-To-Nova-Scotia-Part-1/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-02-27-Trip-To-Nova-Scotia-Part-1/</guid>
+        <link>http://localhost:4000/2017-02-27-Trip-To-Nova-Scotia-Part-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-02-27-Trip-To-Nova-Scotia-Part-1/</guid>
         
         <category>Jordan</category>
         
@@ -1636,8 +1636,8 @@ Jordan then travels from Halifax to Yarmouth, stopping at Duncans Cove and Peggy
         <pubDate>
             Mon, 06 Mar 2017 00:00:00 -0500
         </pubDate>
-        <link>https://jordantomasone.com/2017-03-06-Trip-To-Nova-Scotia-Part-2/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-03-06-Trip-To-Nova-Scotia-Part-2/</guid>
+        <link>http://localhost:4000/2017-03-06-Trip-To-Nova-Scotia-Part-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-03-06-Trip-To-Nova-Scotia-Part-2/</guid>
         
         <category>Tomasone</category>
         
@@ -1715,8 +1715,8 @@ Jordan breaks down the two parts of your brain that have a huge impact on your d
         <pubDate>
             Mon, 13 Mar 2017 00:00:00 -0400
         </pubDate>
-        <link>https://jordantomasone.com/2017-03-13-Building-A-Better-Self-Self-Talk/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-03-13-Building-A-Better-Self-Self-Talk/</guid>
+        <link>http://localhost:4000/2017-03-13-Building-A-Better-Self-Self-Talk/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-03-13-Building-A-Better-Self-Self-Talk/</guid>
         
         <category>Jordan</category>
         
@@ -1781,8 +1781,8 @@ Jordan breaks down the two parts of your brain that have a huge impact on your d
         <pubDate>
             Mon, 20 Mar 2017 00:00:00 -0400
         </pubDate>
-        <link>https://jordantomasone.com/2017-03-20-In-the-Mountains-Quebec/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-03-20-In-the-Mountains-Quebec/</guid>
+        <link>http://localhost:4000/2017-03-20-In-the-Mountains-Quebec/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-03-20-In-the-Mountains-Quebec/</guid>
         
         <category>Jordan</category>
         
@@ -1855,8 +1855,8 @@ Jordan breaks down the two parts of your brain that have a huge impact on your d
         <pubDate>
             Mon, 27 Mar 2017 00:00:00 -0400
         </pubDate>
-        <link>https://jordantomasone.com/2017-03-27-Building-A-Better-Self-Introductions/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-03-27-Building-A-Better-Self-Introductions/</guid>
+        <link>http://localhost:4000/2017-03-27-Building-A-Better-Self-Introductions/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-03-27-Building-A-Better-Self-Introductions/</guid>
         
         <category>Jordan</category>
         
@@ -1915,8 +1915,8 @@ Jordan breaks down the two parts of your brain that have a huge impact on your d
         <pubDate>
             Mon, 03 Apr 2017 00:00:00 -0400
         </pubDate>
-        <link>https://jordantomasone.com/2017-04-03-Mega-Drags/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-04-03-Mega-Drags/</guid>
+        <link>http://localhost:4000/2017-04-03-Mega-Drags/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-04-03-Mega-Drags/</guid>
         
         <category>Tomasone</category>
         
@@ -1986,8 +1986,8 @@ The three types of introductions covered in this video are Interview Introductio
         <pubDate>
             Mon, 10 Apr 2017 00:00:00 -0400
         </pubDate>
-        <link>https://jordantomasone.com/2017-04-10-Building-A-Better-Self-three-major-types-of-intros/</link>
-        <guid isPermaLink="true">https://jordantomasone.com/2017-04-10-Building-A-Better-Self-three-major-types-of-intros/</guid>
+        <link>http://localhost:4000/2017-04-10-Building-A-Better-Self-three-major-types-of-intros/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-04-10-Building-A-Better-Self-three-major-types-of-intros/</guid>
         
         <category>Jordan</category>
         
@@ -2038,6 +2038,58 @@ The three types of introductions covered in this video are Interview Introductio
         <category>when to introduce yourself</category>
         
         <category>the art of introductions</category>
+        
+      </item>
+    
+      <item>
+        <title>Luxury car upgrade &amp; Snow Boarding Stowe Mountain</title>
+        <description>&lt;p&gt;Days off With Jordan - EP 015&lt;/p&gt;
+
+&lt;p&gt;This weeks Days off With Jordan: Luxury car upgrade &amp;amp; Snow Boarding Stowe Mountain. A free luxury upgrade to the Chrysler 300, an amazing car that shows of some of the many advancements in cars today. Traveling to Vermont to snow board at the amazing Stowe Mountain, an amazing destination for snow boarding in North Eastern United States.&lt;/p&gt;
+</description>
+        <pubDate>
+            Mon, 17 Apr 2017 00:00:00 -0400
+        </pubDate>
+        <link>http://localhost:4000/2017-04-17-upgrade-and-vermont-snowboarding/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-04-17-upgrade-and-vermont-snowboarding/</guid>
+        
+        <category>Jordan Tomasone</category>
+        
+        <category>Days Off With Jordan</category>
+        
+        <category>Days off</category>
+        
+        <category>adventure lifestyle</category>
+        
+        <category>canadian travel vlogger</category>
+        
+        <category>luxury car upgrade &amp; snow boarding stowe mountain</category>
+        
+        <category>stowe mountain footage</category>
+        
+        <category>chrysler 300 review</category>
+        
+        <category>snow boarding in vermont</category>
+        
+        <category>snow boarding in the usa</category>
+        
+        <category>snow boarding down stowe mountain</category>
+        
+        <category>stowe mountain shots</category>
+        
+        <category>shredding stowe mountain</category>
+        
+        <category>gopro stowe mountain</category>
+        
+        <category>chrysler 300 review and snow boarding in vermont</category>
+        
+        <category>snow</category>
+        
+        <category>awesome snow board</category>
+        
+        <category>snow boarding trail rides</category>
+        
+        <category>bush trail rides on snow boards</category>
         
       </item>
     
