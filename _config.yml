@@ -1,6 +1,6 @@
 eybname: Jordan Tomasone
 description: Building a better self everyday.
-url: 'https://jordantomasone.com'
+urls: 'https://www.jordantomasone.com'
 baseurl: ''
 email: me@jordantomasone.com
 twitter: https://www.twitter.com/jordantomasone
@@ -31,6 +31,7 @@ exclude:
   - vendor
   - Procfile
   - Rakefile
+  - circle.yml
 collections:
   videos:
     output: true
