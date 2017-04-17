@@ -1,4 +1,5 @@
 machine:
+  -  timezone: US/Eastern
 dependencies:
   post:
     - bundle exec jekyll build
