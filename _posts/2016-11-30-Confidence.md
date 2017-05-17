@@ -2,6 +2,7 @@
 title: Confidence
 author: Jordan Tomasone
 category: Self-Help
+img: /img/blogpostpics/rocksandroots.png
 tags: [Building A Better Self, building a better self, building, better, self, self help, Confidence, how to be more confidence, how to build your confidence, confidence building, understanding confidence, tips and tricks, jordan, Jordan, Tomasone, tomasone, Jordan Tomasone, how to, Canada, Ontario, Days off with Jordan, life changing tips, blog, help with being more confident, blog posts about self help, how to become confident the right way]
 ---
 We see people every day with it but what is it, what is confidence?
@@ -26,7 +27,7 @@ For me it was extremely hard, I could not get my non dominant hand to do what I 
 
 This is because our whole lives we have been using our dominant hand. Every day!
 
-If only we could practice being confident every day. Oh wait we can! It is that easy and you will see the same effect with brushing your teeth. 
+If only we could practice being confident every day. Oh wait we can! It is that easy and you will see the same effect with brushing your teeth.
 
 The key factor here is time and practice but practice is hard and no one has time for it, Right? Well consider how little time you spend brushing your teeth. One minute? Two minutes? Say five minutes every day.
 

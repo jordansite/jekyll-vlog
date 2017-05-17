@@ -2,6 +2,7 @@
 title: When to Think Ahead and When to Stop Yourself!
 author: Jordan Tomasone
 category: Self-Help
+img: /img/blogpostpics/fallsls.png
 tags: [Jordan, Tomasone, Jordan Tomasone, Building A Better Self, building, better, self, self help, help, tips, Personal Development,Days Off With Jordan, Days off, Vlog, vlogger, vlogging, travel vlogger, inspirational content, life planning, thinking about the future, why is the future scary, how to accept the future, When to Think Ahead an When to Stop Yourself, how to plan for the future effectivly, personal planning, short term vs long term thinking, aspects, why do we think so far ahead, how to make your goals a reality, how to plan, goal development, why goals are so important, why impossible goals are so important, how to acieve the impossible, motivating blog post, blog post, Jordan Tomasone Blog post, Benefits of thinking ahead, how to perform at your best, mental planning for better performance]
 ---
 * How does our mind think so far ahead when it really has no idea what will happen?

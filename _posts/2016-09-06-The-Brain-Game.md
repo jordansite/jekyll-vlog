@@ -2,6 +2,7 @@
 title: The Brain Game
 author: Jordan Tomasone
 category: Self-Help
+img: /img/blogpostpics/treeswatermak.png
 tags: [Self Help, Building a Better self, Jordan Tomasone]
 ---
 Every day is a battle... a battle against your brain. Some of us are aware of this battle, others have yet to become aware. Think of your brain as a game.

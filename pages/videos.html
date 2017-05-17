@@ -12,6 +12,7 @@ tags: [Self Help, Building a Better self, Jordan Tomasone]
       <h3>{{ video.title }}</h3>
       <time>{{ video.date | date: '%d %B %Y'}}</time>
       <img class="lazy" data-original='https://img.youtube.com/vi/{{ video.youtube_id }}/hqdefault.jpg'>
+      <p style= "color:Black">{{ video.content | strip_html | truncatewords: 30 }}</p>
     </a>
   </li>
   {% endfor %}

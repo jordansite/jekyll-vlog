@@ -2,6 +2,7 @@
 title: 5 Ways to Gain Back Your Curiosity!
 author: Jordan Tomasone
 category: Self-Help
+img: /img/blogpostpics/highwaywater.png
 tags: [Building A Better Self, jordan,Jordan Tomasone, Tomasone, building a better self, building, better, self, self help, how to be more adventurous, how to be more Curious, benefits of curiousity, personal development, tips to help be more curious, life advice, tips for life, advice for happiness, life pro tips, personal development tips, self improvement tips]
 ---
 ### 5 Ways to Gain Back Your Curiosity
@@ -32,9 +33,9 @@ When was the last time a bug or a snowflake made your jaw drop?
 
 ### # 2 – Why?
 
-Being curious is all about asking the right question. 
+Being curious is all about asking the right question.
 
-That question is “why?” and there can be many different “why” questions. 
+That question is “why?” and there can be many different “why” questions.
 
 When you do this, your thought pattern changes. Over time your curiosity will start to ask “why” more often.
 
@@ -89,7 +90,7 @@ In your planner, schedule as little as 15 minutes or up to an hour and dedicate 
 
 This means no distractions, take this time to be alone. Find a quite place or even a cafe.
 
-What do you do? It is simple, start asking yourself questions. 
+What do you do? It is simple, start asking yourself questions.
 
 Ask anything you want. Whatever comes to your mind.
 
@@ -108,7 +109,7 @@ Keep going and building!!!
 
 Being curious can be difficult because our brains are constantly flooded with streams of information. This causes us to be stimulated all the time, with little room to really think about things.
 
-It will be a hard process to change your thought pattern into a more curious one. 
+It will be a hard process to change your thought pattern into a more curious one.
 
 Although if you can dedicate time in your day to use these tips, I know you will be able to start to building a more curious brain.
 

@@ -2,6 +2,7 @@
 title: Interview Question Examples
 author: Jordan Tomasone
 category: Interviews
+img: /img/blogpostpics/citieies.png
 tags: [Inteviews, interview questions, interview question examples,personal interview proccess, building a better self, self help, personal development, how to get a job, how to perfrom better at interviews, interview advice, interview training, canadian vlogger, canadaian, jordan tomasone, jordantomasone, interview questions youtube, interview question samples, interview advice, good interview advice,Interview skills,how to take an interview,how to improve interview skills,making the best out of an interview,powerful tips for interviews,game changing tips for interviews,how to ace an interview,what type of questions are asked at interviews,interview practice questions,how to practice interviews,what is a good interview,how to properly perform an interview,best practices for interviews]
 ---
 This is a follow up post for this video: [Video Link](https://www.youtube.com/watch?v=22h9CpSQMOw)

@@ -2,11 +2,12 @@
 title: Temporary Satisfaction
 author: Jordan Tomasone
 category: Self-Help
+img: /img/blogpostpics/rocksandwaters.png
 tags: [Building A Better Self, building a better self, building, better, self, self help, temporary satisfaction, how to overcome temporary satisfaction, tips and tricks, jordan, Jordan, Tomasone, tomasone, Jordan Tomasone, cold showers, benefit of cold showers, how to, Canada, Ontario, Days off with Jordan, life changing tips ]
 ---
 The next time you have a shower, turn the nozzle all the way to cold. Yes all the way!
 
-Now get in and have a quick shower. 
+Now get in and have a quick shower.
 
 Give this a shot and think of it as rejuvenation; like going for a massage.
 
@@ -26,7 +27,7 @@ Have this mindset while you read this post.
 
 ### Hot
 
-Think of the money you are literally throwing down the drain. But Jordan, I rent and all utilities are included. 
+Think of the money you are literally throwing down the drain. But Jordan, I rent and all utilities are included.
 
 What about when you have to pay your own bills? It is good to build these habits now so when you do have your own place you do not need to worry!
 
@@ -47,7 +48,7 @@ After you get out of the shower; you feel cold because your body was adjusted to
 
 These types of experiences satisfy you temporarily. They give you a quick and easy shot of joy but then lead you to crash after.
 
-This is called temporary satisfaction and it is something you need to be conscious of. When you feel the need for a pick me up and you use these. Be aware of its shortness. 
+This is called temporary satisfaction and it is something you need to be conscious of. When you feel the need for a pick me up and you use these. Be aware of its shortness.
 
 How long is temporary? To me it is anything under 15 minutes.
 
@@ -57,7 +58,7 @@ That is temporary and it is not benefiting you.
 
 ### Cold
 
-Before I get in the shower, I am thinking about how cold the water will be. 
+Before I get in the shower, I am thinking about how cold the water will be.
 
 I try to prepare my body for what it is about to go through. This means trying to warm up my body mentally, before getting into the shower.
 
@@ -67,7 +68,7 @@ Now once I get in the shower, there is the initial shock from the cold water. My
 
 This forces me to be aware of how my body is feeling; therefore I am in the moment.
 
-Part way through the shower, I don’t even notice how cold the water is. 
+Part way through the shower, I don’t even notice how cold the water is.
 
 Sometimes I wonder if I have it on the coldest setting, I will turn it colder if I feel the need to.
 My body has adjusted to the right temperature in order for me to survive.
