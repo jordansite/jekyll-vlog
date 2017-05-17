@@ -4,12 +4,11 @@ title: Blog
 tags: [Self Help ,Building a Better self ,Jordan Tomasone,Blog]
 permalink: /blog/
 ---
-<br>
 <ul class='posts'>
   {% for post in site.posts %}
   <li>
     <a href='{{ site.urls }}{{ post.url }}'>
-      <h2>{{ post.title }}</h3>
+      <h2>{{ post.title }}</h2>
       <img class="lazy" data-original={{post.img}}>
       <time>{{ post.date | date: '%d %B %Y'}}</time>
       <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
