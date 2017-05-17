@@ -5,14 +5,20 @@
 
 .posts a {
   display: block;
+  background: white;
   padding: 5%;
   margin: 5%;
+  box-shadow: 0 0 5px 2px #333;
   color: #333;
 	transition: all 0.3s ease;
 }
 
 .posts a:hover {
-  background: #D2DFF5;
-  border-radius: 10px;
+  background: #f9bfb2;
+  border-radius: 2px;
   box-shadow: 0 0 5px 2px #333;
+}
+
+.posts img {
+  width: 100%;
 }

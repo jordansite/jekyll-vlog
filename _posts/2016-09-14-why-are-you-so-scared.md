@@ -2,6 +2,7 @@
 title: Why Are You So Scared?
 author: Jordan Tomasone
 category: Self-Help
+img: /img/blogpostpics/subways.png
 tags: [Self Help, Building a Better self, Jordan Tomasone]
 ---
 Seriously though! Why is it that you literally scare yourself out of doing the things that you know you will enjoy and the things that will make your life so much better?
@@ -48,4 +49,4 @@ So consider next time when a thought comes into your head where on the rank does
 
 And the only reason I consider it to be a 5 is because there is still a possibility of injuring yourself when landing, which then could get infected and you could die from it if you don't go to the hospital in time. See how far of a stretch this scenario is?
 
-So think to yourself; what do you consider a 5? Or is everything a 10? 
+So think to yourself; what do you consider a 5? Or is everything a 10?

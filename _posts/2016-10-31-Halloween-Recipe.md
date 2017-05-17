@@ -2,6 +2,7 @@
 title: Healthy Halloween Veggie Salad
 author: Jordan Tomasone
 category: Recipe
+img: /img/blogpostpics/sideofwalls.png
 tags: [Building a Better Self,Healthy Eating,Jordan Tomasone,healthy eating,healthy eating for halloween,staying healthy,halloween,staying healthy on halloween,3 tips for staying healthy,3 tips for staying healthy on halloween,healthy halloween snacks,halloween music,Thor,self help,eating less candy on halloween,healthy eating ideas for halloween,halloween snacks ideas,halloween snacks 2016,halloween snacks easy,healthy halloween food,halloween healthy treats,help]
 ---
 ### Ingredients

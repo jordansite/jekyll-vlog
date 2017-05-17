@@ -2,6 +2,7 @@
 title: The Systems Approach
 author: Jordan Tomasone
 category: Self-Help
+img: /img/blogpostpics/icepiccs.png
 tags: [Building A Better Self, building a better self, building, better, self, self help, Confidence, how to be more confidence, how to build your confidence, confidence building, understanding confidence, tips and tricks, jordan, Jordan, Tomasone, tomasone, Jordan Tomasone, how to, Canada, Ontario, Days off with Jordan, using systems, systems, life planning, scheduling your time, building systems to be more organized, how to be more organized, organization tips, increase your productivity, productivity tips, easy tips to be more productive]
 ---
 ### How To Use Systems To Increase Productivity.
@@ -20,7 +21,7 @@ Using systems has increased my productivity exponentially!
 
 ### Tip #1 – Find Where You Need Systems In Your Life
 
-Systems can be placed pretty much anywhere. 
+Systems can be placed pretty much anywhere.
 
 Think of a time where you really needed to focus or you couldn't remember something.
 
@@ -33,7 +34,7 @@ Most productive people will use a calendar or schedule. This is a perfect exampl
 They plan out everything they can and they do it weeks, months. Even years in advance!
 
 By having your week planned out, you don't need to think about what you are doing Tuesday night.
-You simply look at you calendar and it will tell you. 
+You simply look at you calendar and it will tell you.
 
 If someone asks you what you did last Thursday. You consult your calendar and tell them. No need to think.
 

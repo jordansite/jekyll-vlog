@@ -3,12 +3,14 @@ layout: default
 ---
 <article itemscope itemtype='https://schema.org/BlogPosting'>
 	<header>
-	  <h2 temprop='headline'><b>{{ page.title }}</b></h2>
-	  <time itemprop='datePublished' content='{{ page.date }}'>
+	  <h3 temprop='headline'><b>{{ page.title }}</b></h3>
+	<!--	<div>By: <span itemprop='author'>{{ page.author }}</span></div> -->
+		<img class="lazy" data-original={{page.img}}>
+		<time itemprop='datePublished' content='{{ page.date }}'>
 	    {{ page.date | date: '%d %B'}}
 	  </time>
-	  <div>By: <span itemprop='author'>{{ page.author }}</span></div>
 	</header>
+	<br>
 	<section itemprop='articleBody'>
   	{{ content }}
   </section>

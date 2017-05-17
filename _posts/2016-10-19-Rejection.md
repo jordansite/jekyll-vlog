@@ -2,6 +2,7 @@
 title: Rejection
 author: Jordan Tomasone
 category: Self-Help
+img: /img/blogpostpics/snowfallse.png
 tags: [Self Help, Building a Better self, Jordan Tomasone, Rejection, Therapy, Rejection Therapy, How to deal with rejection, How to, Dealing with life, how to approach a girl, how to feel more confident, how to get over rejection, how to help yourself, self help, changing your life, better self, building better self, Jordan, Tomasone, Results, fast results, how to overcome rejection]
 ---
 Alright this is a big one; we have all faced it at some point in our lives. Yes that is right, I am talking about rejection!
