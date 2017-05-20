@@ -70,18 +70,18 @@ aside {
 // Navigation
 
 .navbar-default {
-    background-color: white;
-    border-color: rgba($theme-dark, .5);
+    background-color: #303440;
+    border-color: rgba(white, .5);
     @include sans-serif-font;
     @include transition-all;
     .navbar-header .navbar-brand {
-        color: $theme-primary;
+        color: white;
         @include sans-serif-font;
         font-weight: 700;
         text-transform: uppercase;
         &:hover,
         &:focus {
-            color: darken($theme-primary, 10%);
+            color: $theme-primary;
         }
     }
     .nav {
@@ -91,7 +91,7 @@ aside {
                 text-transform: uppercase;
                 font-weight: 700;
                 font-size: 13px;
-                color: $theme-dark;
+                color: white;
                 &:hover {
                     color: $theme-primary;
                 }
@@ -109,36 +109,37 @@ aside {
         }
     }
     @media (min-width: 768px) {
-        background-color: transparent;
-        border-color: rgba(white, .3);
+      background-color: transparentize(#303440, 0.85);
+      border-color: rgba(white, .5);
         .navbar-header .navbar-brand {
-            color: rgba(grey, .7);
+            color: rgba(white, .7);
             &:hover,
             &:focus {
-                color: white;
+                color: $theme-primary;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(grey, .7);
+            color: rgba(white, .7);
             &:hover {
-                color: white;
+                color: $theme-primary;
             }
         }
         &.affix {
-            background-color: white;
-            border-color: rgba($theme-dark, .5);
+            border-color: rgba(white, .5);
+            background-color: transparentize(#303440, 0.3);
             .navbar-header .navbar-brand {
-                color: $theme-primary;
+                color: white;
                 font-size: 14px;
                 &:hover,
                 &:focus {
-                    color: darken($theme-primary, 10%);
+                  color: $theme-primary;
+                    //color: darken($theme-primary, 10%);
                 }
             }
             .nav > li > a,
             .nav > li > a:focus {
-                color: $theme-dark;
+                color: white;
                 &:hover {
                     color: $theme-primary;
                 }
@@ -146,7 +147,6 @@ aside {
         }
     }
 }
-
 // Homepage Header
 
 header {
@@ -155,6 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
+    text-shadow: 0.5px 0.5px black;
     background-image: url('../img/header.jpg');
     text-align: center;
     color: white;
