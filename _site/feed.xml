@@ -5,8 +5,8 @@
     <description>Building a better self everyday.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 18 Sep 2017 02:47:48 -0400</pubDate>
-    <lastBuildDate>Mon, 18 Sep 2017 02:47:48 -0400</lastBuildDate>
+    <pubDate>Mon, 18 Sep 2017 17:09:12 -0400</pubDate>
+    <lastBuildDate>Mon, 18 Sep 2017 17:09:12 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -3382,16 +3382,16 @@ Quebec city was an incredible experience that would be recommend to anyone who l
       </item>
     
       <item>
-        <title>Meditation for Begginers!</title>
-        <description>&lt;p&gt;Building A Better Self - Meditation for Begginers!&lt;/p&gt;
+        <title>Meditation for Beginners!</title>
+        <description>&lt;p&gt;Building A Better Self - Meditation for Beginners!&lt;/p&gt;
 
 &lt;p&gt;This video Jordan talks about his journey in starting meditation, and 3 basic concepts to use while starting to meditate yourself.&lt;/p&gt;
 </description>
         <pubDate>
             Mon, 18 Sep 2017 00:00:00 -0400
         </pubDate>
-        <link>http://localhost:4000/2017-09-18-meditation-begginers/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017-09-18-meditation-begginers/</guid>
+        <link>http://localhost:4000/2017-09-18-meditation-beginners/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-09-18-meditation-beginners/</guid>
         
         <category>Jordan Tomasone</category>
         
@@ -3405,7 +3405,7 @@ Quebec city was an incredible experience that would be recommend to anyone who l
         
         <category>meditation</category>
         
-        <category>meditation for begginers</category>
+        <category>meditation for beginners</category>
         
         <category>my tips for meditation</category>
         
