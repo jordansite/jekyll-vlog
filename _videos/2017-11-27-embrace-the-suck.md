@@ -1,6 +1,6 @@
 ---
 title: Embracing the Suck! Why Motivation can only take you so far!
-youtube_id: UsBokHs_Q9c
+youtube_id: uSBokHs_Q9c
 tags: [Jordan Tomasone,Building A Better Self,building,better,self help,help,tips,Personal Development,self-help secrets revealed,embracing the suck,motivation,motivational video,why motivation can only take you so far,how to overcome lifes obstacles,the power of embracing the suck,motivation can only take you so far embrace the suck,how to achieve your dreams,making the best out of life,how to build confidence,confidence building ideas]
 ---
 Building A Better Self - Embracing the Suck!
