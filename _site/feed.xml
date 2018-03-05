@@ -5,8 +5,8 @@
     <description>Building a better self everyday.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Feb 2018 21:08:06 -0500</pubDate>
-    <lastBuildDate>Sun, 25 Feb 2018 21:08:06 -0500</lastBuildDate>
+    <pubDate>Mon, 05 Mar 2018 02:28:12 -0500</pubDate>
+    <lastBuildDate>Mon, 05 Mar 2018 02:28:12 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -4626,16 +4626,22 @@ Quebec city was an incredible experience that would be recommend to anyone who l
       </item>
     
       <item>
-        <title>Munich Day Three</title>
-        <description>&lt;p&gt;DENGER 2017 - Part 17 - Munich Museum adventure&lt;/p&gt;
+        <title>Munich Day Four</title>
+        <description>&lt;p&gt;DENGER 2017 - part 18 - Aviation and Auto Museums&lt;/p&gt;
 
-&lt;p&gt;In this video Jordan visits a Museum in Munich Germany and explores the various different exhibits.&lt;/p&gt;
+&lt;p&gt;In this video Jordan tours the aviation and auto museum and stops in for a quick visit at a 400 year old estate.&lt;/p&gt;
 </description>
         <pubDate>
-            Sun, 25 Feb 2018 00:00:00 -0500
+            Mon, 05 Mar 2018 00:00:00 -0500
         </pubDate>
-        <link>http://localhost:4000/2018-02-25-DENGER-17/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018-02-25-DENGER-17/</guid>
+        <link>http://localhost:4000/2018-03-05-DENGER-18/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-03-05-DENGER-18/</guid>
+        
+        <category>DENGER 2017 - part 18 - Aviation and Auto Museums</category>
+        
+        <category>Jordan</category>
+        
+        <category>Tomasone</category>
         
         <category>Jordan Tomasone</category>
         
@@ -4651,33 +4657,27 @@ Quebec city was an incredible experience that would be recommend to anyone who l
         
         <category>adventure lifestyle</category>
         
-        <category>munich</category>
+        <category>germany</category>
         
         <category>DENGER 2017</category>
         
-        <category>germany trip 2017</category>
+        <category>munich</category>
         
-        <category>traveling munich</category>
+        <category>auto museum</category>
         
-        <category>munich museum tour</category>
+        <category>museum</category>
         
-        <category>touring a museum in munich</category>
+        <category>aviation</category>
         
-        <category>experience munich</category>
+        <category>touring the aviation museum in munich</category>
         
-        <category>munich musuem trip</category>
+        <category>munich palace</category>
         
-        <category>museum adventure</category>
+        <category>munich grand estate</category>
         
-        <category>canadian traveling in germany</category>
+        <category>touring the grand estate in munich</category>
         
-        <category>museum tour video</category>
-        
-        <category>munich germany</category>
-        
-        <category>Jordan visits a museum in munich germany</category>
-        
-        <category>museum exploration in munich</category>
+        <category>canadian travels to germany</category>
         
       </item>
     
